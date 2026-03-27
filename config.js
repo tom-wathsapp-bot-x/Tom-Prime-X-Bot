@@ -9,7 +9,7 @@ module.exports = {
   // ─── Bot Identity ──────────────────────────────────────────
   BOT_NAME: "Tom's Bot",
   BOT_PREFIX: ".",        // Command prefix. E.g. ".menu", ".tagall"
-  OWNER_NUMBER: "1234567890",  // Your WhatsApp number (with country code, no +)
+  OWNER_NUMBER: "8801892625209",  // Your WhatsApp number (with country code, no +)
 
   // ─── Connection Method ─────────────────────────────────────
   // "qr"   → Scan a QR code in the terminal when the bot starts
@@ -17,7 +17,7 @@ module.exports = {
   CONNECTION_METHOD: "qr",
 
   // If using "link" method, put your number here (with country code, no +)
-  PAIRING_NUMBER: "1234567890",
+  PAIRING_NUMBER: "8801714821271",
 
   // ─── Group Features ────────────────────────────────────────
   FEATURES: {
