@@ -2,7 +2,7 @@
   "name": "toms-whatsapp-bot",
   "version": "1.0.0",
   "description": "Tom's WhatsApp Group Bot - Powerful group management bot",
-  "main": "src/index.js",
+  "main": "index.js"
   "scripts": {
     "start": "node index.js"
     "dev": "node --watch src/index.js"
