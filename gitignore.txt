@@ -1,0 +1,27 @@
+# WhatsApp session files — DO NOT commit these!
+# They contain your login credentials.
+session/
+creds.json
+*.json.bak
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
